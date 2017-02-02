@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Add1">Select a number</string>
+    <string name="Add2">Select another number</string>
+    <string name="Add_number_1" translatable="false">1</string>
+    <string name="Add_number_2" translatable="false">2</string>
+    <string name="Add_number_3" translatable="false">3</string>
+    <string name="Add">Add</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
